@@ -223,10 +223,12 @@ h4:after {
 .header-wrapper{
     padding-left: 40px;
     padding-right: 40px;
+    padding-top: 40px;
 }
 .header-content {
     text-align: center;
     padding: 25px 0 55px 0;
+
 }
 .header-title {
     font-size: 28px;
