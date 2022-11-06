@@ -36,7 +36,7 @@ LINKS = (('картошка', 'https://instagram.com/fronteno'),
 #           )
 
 DEFAULT_PAGINATION = 10
-NEST_HEADER_IMAGES = 'fruits.png'
+NEST_HEADER_IMAGES = 'logo.png'
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
