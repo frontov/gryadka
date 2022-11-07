@@ -244,7 +244,7 @@ div.figure p.caption, figure p.caption { /* margin provided by figure */
 	Featured
 *****************/
 #featured {
-	background: #fff;
+	/*background: #fff;*/
 	margin-bottom: 2em;
 	overflow: hidden;
 	padding: 20px;
@@ -273,7 +273,7 @@ div.figure p.caption, figure p.caption { /* margin provided by figure */
 	Body
 *****************/
 #content {
-	background: #fff;
+	/*background: #fff;*/
 	margin-bottom: 2em;
 	overflow: hidden;
 	padding: 20px 20px;
