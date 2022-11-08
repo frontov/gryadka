@@ -55,7 +55,7 @@ a:link, a:visited {
 	text-decoration: underline;
 }
 a:hover, a:active {
-	background-color: #C74350;
+	background-color: #ffe3e3;
 	color: #fff;
 	text-decoration: none;
 	text-shadow: 1px 1px 1px #333;
@@ -305,7 +305,6 @@ div.figure p.caption, figure p.caption { /* margin provided by figure */
 	text-decoration: none;
 	padding: .3em .25em;
 }
-
 #extras a:hover, #extras a:active {color: #fff;}
 
 	/* Blogroll */
