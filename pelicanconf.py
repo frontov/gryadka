@@ -16,7 +16,7 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
-DISPLAY_PAGES_ON_MENU = False
+DISPLAY_PAGES_ON_MENU = True
 
 
 # Blogroll
@@ -25,14 +25,14 @@ LINKS = (('картошка', 'https://instagram.com/fronteno'),
          ('огурец', 'https://instagram.com/igushkinm'),
          ('тыква', 'https://instagram.com/pashutop'),
          ('баклажан', 'https://instagram.com/shelkanzo'),
-         ('gryadka', 'https://instagram.com/gryadka_rc'),
+         ('gryadka', 'https://instagram.com/gryadka_club'),
          )
 
 
 
 # Social widget
 # SOCIAL_WIDGET_NAME = 'instagram'
-# SOCIAL = (('inst', 'https://instagram.com/gryadka_rc'),
+# SOCIAL = (('inst', 'https://instagram.com/gryadka_club'),
 #           )
 
 DEFAULT_PAGINATION = 10
@@ -42,3 +42,9 @@ STATIC_PATHS = ['images', 'extra/CNAME']
 EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},}
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+PLUGINS = [
+    # ...
+    'pelican_youtube',
+    # ...
+]

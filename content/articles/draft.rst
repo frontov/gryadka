@@ -3,6 +3,8 @@
 
 :Slug: newyearcamp
 :date: 2022-11-02 00:00
+:Status: draft
+
 
 
 Никто не ждал, но мы все таки сделали!
@@ -30,6 +32,6 @@
    <a href="/images/letitsnow.pdf" target="_blank">Подробное описание</a>
 
 
-.. image:: /images/trio.jpg
+.. image:: /images/trio.png
     :alt: это мы - тыква, баклажан и картошка
     :width: 100%

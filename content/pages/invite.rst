@@ -1,10 +1,12 @@
-Новогодний кэмп
+Серьезный анонс
 ###############
 
 :Slug: invite
 :Date: 2022-10-30 19:19
 :Author: sornyak
 :Summary: Новогодний кэмп
+:Status: draft
+
 
 
 
