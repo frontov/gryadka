@@ -1,10 +1,11 @@
 Мартовская Малиновка
 ######################
 
-:Slug: invite
+:Slug: invite1
 :Date: 2023-01-20 19:19
 :Author: sornyak
 :Summary: Мартовская Малиновка
+:Status: draft
 
 
 

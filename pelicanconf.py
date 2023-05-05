@@ -38,7 +38,7 @@ LINKS = (('картошка', 'https://instagram.com/fronteno'),
 DEFAULT_PAGINATION = 10
 NEST_HEADER_IMAGES = 'logo.png'
 
-STATIC_PATHS = ['images', 'extra/CNAME']
+STATIC_PATHS = ['images', 'extra/CNAME', 'images/tereskol']
 EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},}
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
