@@ -27,13 +27,13 @@ gryadka.club в Малиновке
 
 
 
-.. image:: ../images/malinovka/mal1.jpg
+.. image:: ../../images/malinovka/mal1.jpg
 
 
-.. image:: ../images/malinovka/mal2.jpg
+.. image:: ../../images/malinovka/mal2.jpg
 
 
-.. image:: ../images/malinovka/mal3.jpg
+.. image:: ../../images/malinovka/mal3.jpg
 
 
 

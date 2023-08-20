@@ -30,11 +30,11 @@
 ❗️Следующие сборы  теперь только  в лыжном сезоне👌
 
 
-.. image:: ../images/arhyz/arfinish1.jpg
+.. image:: ../../images/arhyz/arfinish1.jpg
 
-.. image:: ../images/arhyz/arfinish2.jpg
+.. image:: ../../images/arhyz/arfinish2.jpg
 
-.. image:: ../images/arhyz/arfinish3.jpg
+.. image:: ../../images/arhyz/arfinish3.jpg
 
 
 

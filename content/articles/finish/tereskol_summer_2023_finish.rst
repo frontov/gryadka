@@ -32,10 +32,10 @@
 
 
 
-.. image:: ../images/tereskol/tf1.JPG
+.. image:: ../../images/tereskol/tf1.JPG
 
-.. image:: ../images/tereskol/tf2.JPG
+.. image:: ../../images/tereskol/tf2.JPG
 
-.. image:: ../images/tereskol/tf3.JPG
+.. image:: ../../images/tereskol/tf3.JPG
 
-.. image:: ../images/tereskol/tf4.JPG
+.. image:: ../../images/tereskol/tf4.JPG

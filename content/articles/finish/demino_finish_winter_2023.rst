@@ -23,11 +23,11 @@
 
 
 
-.. image:: ../images/demino/dem1.jpg
+.. image:: ../../images/demino/dem1.jpg
 
-.. image:: ../images/demino/dem2.jpg
+.. image:: ../../images/demino/dem2.jpg
 
-.. image:: ../images/demino/dem3.jpg
+.. image:: ../../images/demino/dem3.jpg
 
 
 
