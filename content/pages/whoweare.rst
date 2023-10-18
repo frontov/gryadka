@@ -16,7 +16,7 @@
 
 Не всегда понимает, почему остальные такие клоуны
 
-.. image:: ../images/whoweare/misha.jpg
+.. image:: ../images/whoweare/misha2.jpg
 
 ===============
 
@@ -31,7 +31,7 @@
 
 Готова ворваться в велоспорт
 
-.. image:: ../images/whoweare/asya2.jpg
+.. image:: ../images/whoweare/asya3.jpg
 
 ===============
 
@@ -43,7 +43,7 @@
 
 Бежит в подъем быстрее, чем по равнине
 
-.. image:: ../images/whoweare/sasha1.jpg
+.. image:: ../images/whoweare/sasha2.jpg
 
 ================
 
@@ -55,5 +55,5 @@
 
 Самый ЗОЖный овощ
 
-.. image:: ../images/whoweare/roman.jpg
+.. image:: ../images/whoweare/roman1.png
 
