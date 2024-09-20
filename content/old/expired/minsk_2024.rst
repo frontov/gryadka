@@ -6,6 +6,7 @@
 :Author: sornyak
 :Summary: Едем в Раубичи: Мир, труд, ГРЯДКА
 :category: предстоящие сборы
+:Status: draft
 
 
 
